@@ -1,2 +1,0 @@
-# silver-couscous
-Primeiro Repositorio
